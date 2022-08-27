@@ -13,7 +13,7 @@
 if you first run it, you may config something
 
 ```
-C:\users\Joe>python easymail.py
+C:\users\Joe>python sendmail.py
 未检测到配置文件
 stmp服务器:your mailhost
 授权码:your license code
@@ -23,7 +23,7 @@ stmp服务器:your mailhost
 
 then run
 ```
-C:\users\Joe>python easymail --help
+C:\users\Joe>python sendmail --help
 usage: easymail.py [-h] [-u USER [USER ...]] [-t TITLE] [-c CONTENT] [-l LOG] [--text TEXT] [--image IMAGE [IMAGE ...]]
                    [--file FILE [FILE ...]]
 
