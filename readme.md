@@ -5,7 +5,7 @@
 </div>
 
 # introduce
-## this is a python powered script,by using it you can use only one command to send email,images and files to extra targets
+## this is a python script,by using it you can use only one command to send email,images and files to extra targets
  
 # getting start
 ## you should have python > 3.6!!!
